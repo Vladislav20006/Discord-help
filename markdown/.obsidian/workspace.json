@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "75870a9c38f84679",
+    "type": "split",
+    "children": [
+      {
+        "id": "c27d0c347be01d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c06d06af66206330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discord-help/Discord.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b0a4cf267c3f24a",
+    "type": "split",
+    "children": [
+      {
+        "id": "694eb553635bfdcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb03dbd96bbf19a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ccb9da746e80603",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "940314bdb7728b96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f47745d7e3709805",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e6b13b2ca7eb74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4f9cdc362a4c2c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discord-help/Discord.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66cca123502e5743",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Discord-help/Discord.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc8cca5c2c06f257",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24d923fb8675e13f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Discord-help/Discord.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "bb03dbd96bbf19a1",
+  "lastOpenFiles": [
+    "Discord-help/Створення сервера.md",
+    "Discord-help/Створення канала.md",
+    "Discord-help/Реєстрація в Discord.md",
+    "-Discord/Створення сервера.md",
+    "-Discord/Створення канала.md",
+    "-Discord/Реєстрація в Discord.md",
+    "remote/-Discord/Реєстрація в Discord.md",
+    "Untitled.md",
+    "remote",
+    "Discord/Створення канала.md",
+    "Discord/Реєстрація в Discord.md"
+  ]
+}
